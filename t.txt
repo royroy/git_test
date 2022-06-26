@@ -1,0 +1,4 @@
+hello 
+this is a text file 
+theres text here
+there be gold in them hills
